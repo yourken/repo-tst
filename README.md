@@ -1,3 +1,5 @@
+**updated-README.md**
+
 ---
 # DYNAMIC CHAOZ PRODUCTIONS
 ## 10-2017
@@ -10,24 +12,23 @@
 2. second
 3. third
 
-´´´
+```
 if(beer)
 {
 	cout << "good" << endl;
 }
 else
 {
-	cout << "ugly" << endl;
+	cout << "bad'n ugly" << endl;
 }
-´´´
+```
 
-'code me'
-
-
+`code me`
 
 
 
-updated this line in readme
+
+
 
 
 
