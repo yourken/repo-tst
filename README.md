@@ -27,7 +27,7 @@ else
 
 
 
-updated this line in readme @master
+updated this line in readme
 
 
 
