@@ -1,11 +1,11 @@
 ---
-######DYNAMIC CHAOZ PRODUCTIONS
+###### DYNAMIC CHAOZ PRODUCTIONS
 ---
-#####PROUDLY
-####PRESENTS
-###MARKDOWN
-##2017
-#OCT
+##### PROUDLY
+#### PRESENTS
+### MARKDOWN
+## 2017
+# OCT
 ---
 
 
@@ -24,3 +24,4 @@ else
 }
 '''
 
+'code me'
